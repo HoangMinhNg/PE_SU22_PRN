@@ -1,0 +1,14 @@
+C:\Coding\PRN211\PRN211\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Coding\PRN211\PRN211\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.runtimeconfig.json
+C:\Coding\PRN211\PRN211\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Coding\PRN211\PRN211\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Coding\PRN211\PRN211\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Coding\PRN211\PRN211\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\PRN211\PRN211\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Coding\PRN211\PRN211\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\Coding\PRN211\PRN211\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Coding\PRN211\PRN211\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Coding\PRN211\PRN211\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\Coding\PRN211\PRN211\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\Coding\PRN211\PRN211\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.genruntimeconfig.cache
+C:\Coding\PRN211\PRN211\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
